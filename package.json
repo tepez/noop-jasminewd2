@@ -1,0 +1,5 @@
+{
+  "name": "@tepez/noop-jasminewd2",
+  "version": "0.0.0",
+  "description": "A noop jasminewd2 to prevent protractor from loading the real one"
+}
